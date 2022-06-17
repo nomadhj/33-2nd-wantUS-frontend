@@ -18,5 +18,5 @@
 ***
 ## 기능 구현 영상 링크
 - https://www.youtube.com/watch?v=SqFNWewFKKk
-
-<img width="817" alt="스크린샷 2022-06-17 오후 1 14 13" src="https://user-images.githubusercontent.com/101119985/174223646-c11b401e-57c9-4a93-afe6-114b1a59674f.png">
+***
+##  구현 기능
