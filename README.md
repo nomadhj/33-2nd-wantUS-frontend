@@ -30,7 +30,7 @@
 
 - 채용공고리스트
   - 페이지네이션 기능을 활용, 무한 스크롤 페이지 구현
-  - interSection Observserf API를 활용한 성능 최적화
+  - interSection Observser API를 활용한 성능 최적화
     - 스크롤에 이벤트를 부여하는 방식에서 interSection Observer API 활용하는 방식으로 변경
     - 데이터의 마지막 요소를 관찰대상으로 지정하고 해당 관찰 대상이 80% 이상 관측 될 때 새로운 데이터를 불러오도록 구현
   - Query Parameter를 활용한 다중 필터 기능
